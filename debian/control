@@ -1,0 +1,14 @@
+Source: vx-xjigsaw
+Section: games
+Priority: extra
+Maintainer: Alberto Gacías <alberto@migasfree.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.webmayo.com/xjigsaw/
+
+Package: vx-xjigsaw
+Architecture: all
+Depends: ${misc:Depends}
+Description: xJigsaw puzzles
+ xJigsaw combines xjig with a simple gui that allows easy creation of jigsaw puzzles
+ 

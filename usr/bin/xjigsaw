@@ -1,0 +1,7 @@
+#!/bin/bash
+_PATH="$HOME/Imágenes"
+ls "$_PATH/*.jpg" &> /dev/null
+if [ $? = 2  ] ; then
+    cp /usr/share/xjigsaw/*.jpg "$_PATH"
+fi    
+/usr/share/xjigsaw/xjigsaw
