@@ -2,8 +2,8 @@ Format: http://dep.debian.net/deps/dep5
 Upstream-Name: vx-xjigsaw
 
 Files: usr/share/xjigsaw/*
-Copyright: Unkown
-License: Unknown
+Copyright: Les Hardy
+License: Free for non-commercial use
 
 Files: debian/*
 Copyright: 2015 Alberto Gacías <alberto@migasfree.org>

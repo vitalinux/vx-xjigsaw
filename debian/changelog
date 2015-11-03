@@ -1,5 +1,11 @@
+vx-xjigsaw (1.0-2) unstable; urgency=low
+
+  * Added copyright and license
+
+ -- Alberto Gacías <alberto@migasfree.org>  Tue, 3 Nov 2015 18:28:06 +0200
+
 vx-xjigsaw (1.0-1) unstable; urgency=low
-  
+
   * First version
-  
+
  -- Alberto Gacías <alberto@migasfree.org>  Tue, 17 Mar 2015 09:33:06 +0200
