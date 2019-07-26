@@ -1,3 +1,9 @@
+vx-xjigsaw (1.0-3) unstable; urgency=low
+
+  * Upgraded binary (64 bits)
+
+ -- Alberto Gacías <alberto@migasfree.org>  Fri, 26 Jul 2019 18:28:06 +0200
+
 vx-xjigsaw (1.0-2) unstable; urgency=low
 
   * Added copyright and license
