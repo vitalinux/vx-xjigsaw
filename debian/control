@@ -7,8 +7,8 @@ Standards-Version: 3.9.3
 Homepage: http://www.webmayo.com/xjigsaw/
 
 Package: vx-xjigsaw
-Architecture: all
+Architecture: amd64
 Depends: ${misc:Depends}
 Description: xJigsaw puzzles
  xJigsaw combines xjig with a simple gui that allows easy creation of jigsaw puzzles
- 
+
